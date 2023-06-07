@@ -4,7 +4,7 @@ import "swiper/css/pagination";
 import { Pagination } from "swiper";
 import { Card, Container, Image } from "react-bootstrap";
 import cupcakeVector from "../../assets/cupcakeVector.png";
-import pizzaVector from "../../assets/pizzaVector.png";
+import pizzaVector from "../../assets/pizzavector.png";
 import kebabVector from "../../assets/kebabVector.png";
 import doughnutVector from "../../assets/doughnutVector.png";
 import salmonVector from "../../assets/salmonVector.png";
