@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik'!important;
+}
+
+@media screen and (min-width: 360px) {
+  .swiper-container {
+    width: 360px;
+  }
+
+  #bp-480,
+  #bp-768 {
+    display: none !important;
+  }
+
+  #bp-640 {
+    display: inline !important;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .swiper-container {
+    width: 768px;
+  }}

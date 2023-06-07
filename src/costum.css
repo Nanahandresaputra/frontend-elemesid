@@ -1,0 +1,40 @@
+/* bootstrap costumizing */
+
+/* background color */
+
+/* green */
+.bg-green-1{
+    background-color: #8BAC3E!important;
+  }
+.bg-green-2{
+    background-color: #A4B441!important;
+  }
+.bg-green-2-light{
+    background-color: #F9FFF7!important;
+  }
+
+  /* color */
+.green-1{
+    color:#8BAC3E
+}
+.green-2{
+    color:#A4B441
+}
+.grey {
+  color: #757575;
+}
+  
+
+
+/* button */
+  .btn-green-2{
+    background-color: #A4B441!important;
+    color:white!important;
+  }
+
+  /* border */
+  .border-food {
+    border: 50px solid#E6F3F5;
+    border-radius: 100%;
+  }
+
